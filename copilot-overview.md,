@@ -1,6 +1,6 @@
-# what microsoft 365 copilot is
+# What microsoft 365 copilot is
 Microsoft 365 Copilot is a generative AI assistant that is built directly into Microsoft 365 apps like Word, Excel, PowerPoint, Outlook, and Teams.
-# what it depends on 
+# What it depends on 
 IDENTITY: Copilot uses your Microsoft ID and license to determine which version you can access.
 DATA: Copilot data includes files, chats, emails, calendars, and other content connected through Microsoft Graph and relevant to your work.
 PERMISSION: Copilot  respects your existing permissions like,  not accessing files you can't see. it relies on the functions of ypur microsoft 365 environment.
